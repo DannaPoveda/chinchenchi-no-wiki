@@ -1,0 +1,36 @@
+@charset "utf-8";
+.bg_menu {
+    background-color: #161E31;
+}
+.bg_background {
+    background-image: url(../images/img5.jpg);
+
+}
+.bg_backgroundpersonajes {
+    background-image: url(../images/backgorund.jpg);
+}
+.bg_backtitanes {
+    background-image: url(../images/back2.jpg);
+}
+
+
+.bg_titulos {
+    color: #FFFFFF;
+}
+.bg_plano {
+    background-color: #0B2209;
+}
+.bg_cartas {
+    background-color: #A5C89B;
+}
+.bg_fondo {
+    background-image: url(../images/img12.jpg);
+}
+.bg_planoblanco   {
+    background-image: url(../images/fondo.png);
+}
+.bg_otrofondo {
+    background-image: url(../images/legion.jpg);
+}
+.bg_ba {
+}
